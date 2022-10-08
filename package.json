@@ -1,0 +1,19 @@
+{
+  "name": "1828-layouts-responsivos-0eb5f677738d89e78d46e29b624c5599b55eac5c",
+  "version": "1.0.0",
+  "description": "cursos academia ruta  frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonaArce68/front_academia_layouts_responsivos.git"
+  },
+  "author": "Jonatan Arce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonaArce68/front_academia_layouts_responsivos/issues"
+  },
+  "homepage": "https://github.com/JonaArce68/front_academia_layouts_responsivos#readme"
+}
